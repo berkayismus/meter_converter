@@ -19,6 +19,7 @@
 		0C65F75F2AE4124400F77DE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0C65F7612AE4124500F77DE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C65F7642AE4124500F77DE6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0C65F76B2AE4154900F77DE6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		0C65F7512AE4124400F77DE6 = {
 			isa = PBXGroup;
 			children = (
+				0C65F76B2AE4154900F77DE6 /* README.md */,
 				0C65F75C2AE4124400F77DE6 /* MeterConverter */,
 				0C65F75B2AE4124400F77DE6 /* Products */,
 			);
